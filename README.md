@@ -27,5 +27,9 @@ Run the code using `python sr.py`.
 
 ## Contributions
 
-1. [IBM Watson](https://www.ibm.com/watson/services/speech-to-text/)
-2. [Pyyaml](https://pyyaml.org/)
+1. [IBM Watson](https://www.ibm.com/watson/services/speech-to-text/).
+2. [Pyyaml](https://pyyaml.org/).
+
+# Resources
+
+1. [Google blog on Speech Recognition](https://ai.googleblog.com/2019/03/an-all-neural-on-device-speech.html) .
