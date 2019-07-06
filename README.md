@@ -28,4 +28,4 @@ Run the code using `python sr.py`.
 ## Contributions
 
 1. [IBM Watson](https://www.ibm.com/watson/services/speech-to-text/)
-2. [Pyyaml](https://www.ibm.com/watson/services/speech-to-text/)
+2. [Pyyaml](https://pyyaml.org/)
