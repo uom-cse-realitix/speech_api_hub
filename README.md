@@ -33,3 +33,7 @@ Run the code using `python sr.py`.
 # Resources
 
 1. [Google blog on Speech Recognition](https://ai.googleblog.com/2019/03/an-all-neural-on-device-speech.html) .
+
+# Let us play a game!
+
+<iframe src="https://www.crazygames.com/gameframe/bullet-force-multiplayer" width="900" height="545"  marginwidth="0" marginheight="0" hspace="0" vspace="0"  frameborder="0" scrolling="no"  webkitallowfullscreen="true" mozallowfullscreen="true" msallowfullscreen="true" allowfullscreen="true"></iframe>
